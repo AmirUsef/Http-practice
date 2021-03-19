@@ -1,0 +1,20 @@
+{
+  "name": "http-start",
+  "version": "1.0.0",
+  "description": "start with http",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yousef",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirUsef/startWithHttp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AmirUsef/startWithHttp/issues"
+  },
+  "homepage": "https://github.com/AmirUsef/startWithHttp#readme"
+}
